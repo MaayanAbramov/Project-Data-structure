@@ -1,0 +1,11 @@
+add_country 8836250 9247414
+add_team 2949724 8836250 4
+add_team 3781280 8836250 3
+add_team 706477 8836250 3
+remove_country 8836250
+remove_team 2949724
+remove_country 8836250
+remove_team 706477
+remove_country 8836250
+remove_team 3781280
+remove_country 8836250

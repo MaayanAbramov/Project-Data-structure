@@ -1,0 +1,523 @@
+add_country 3301741 8889252
+add_country 8871278 3273632
+add_country 955070 8658370
+add_team 491660 955070 0
+add_team 3295109 3301741 0
+add_team 1628716 3301741 0
+add_team 2046924 955070 0
+add_team 6211182 3301741 0
+add_team 7482333 955070 0
+add_team 1614920 8871278 0
+add_team 6265049 955070 0
+add_contestant 196388 955070 0 6166192
+add_contestant 80150 3301741 0 5218019
+add_contestant 291218 8871278 0 8727527
+add_contestant 8442964 955070 0 858206
+add_contestant 6784788 955070 0 3920587
+add_contestant 4090842 8871278 0 9345697
+add_contestant 3317031 955070 0 1578520
+add_contestant 5618913 3301741 0 2472435
+add_contestant 11487 3301741 0 1597478
+add_contestant 5933066 955070 0 2996355
+add_contestant 738675 3301741 0 6435646
+add_contestant 5733536 8871278 0 8666686
+add_contestant 5593507 3301741 0 504041
+add_contestant 2440125 3301741 0 6882928
+add_contestant 1996276 8871278 0 4326803
+add_contestant 9824554 3301741 0 9773915
+add_contestant 7628129 955070 0 9362300
+add_contestant 527320 8871278 0 5174796
+add_contestant 106681 3301741 0 8670418
+add_contestant 4847276 955070 0 1486645
+add_team 6889159 8871278 0
+add_contestant 1128602 8871278 0 111668
+add_contestant_to_team 6889159 1128602
+remove_contestant_from_team 6889159 1128602
+remove_contestant_from_team 6265049 5593507
+remove_contestant_from_team 1628716 11487
+add_contestant 3981280 3301741 0 8502629
+add_contestant_to_team 6211182 3981280
+remove_contestant_from_team 6211182 3981280
+add_contestant 2206835 8871278 0 2325178
+add_contestant_to_team 6889159 2206835
+remove_contestant_from_team 6889159 2206835
+add_team 2419482 8871278 0
+remove_contestant_from_team 1614920 -7594780
+add_contestant 9570817 8871278 0 9756152
+add_contestant_to_team 491660 4847276
+remove_contestant_from_team 6889159 6387311
+add_team 1267421 8871278 0
+add_team 3068351 3301741 0
+add_team 9292920 8871278 0
+add_contestant 591226 8871278 0 808330
+add_contestant 453652 3301741 0 7035740
+add_team 6338240 955070 0
+add_contestant 7884620 3301741 0 4971687
+add_contestant 7776507 3301741 0 7244601
+add_contestant 862134 3301741 0 6893639
+add_team 7733171 3301741 0
+remove_contestant_from_team 6889159 7046570
+remove_contestant_from_team 3295109 9570817
+add_contestant_to_team 2046924 196388
+remove_contestant_from_team 2826588 9570817
+remove_contestant_from_team 1614920 1128602
+remove_contestant_from_team 8925634 8112223
+remove_contestant_from_team 9326461 5873554
+add_contestant_to_team 1267421 1128602
+add_team 8411239 955070 0
+remove_contestant_from_team -1785230 862134
+remove_contestant_from_team 2046924 196388
+add_contestant 8630354 3301741 0 5503942
+add_contestant_to_team 3068351 8630354
+remove_contestant_from_team 3068351 8630354
+remove_contestant_from_team -8067132 1128602
+add_team 9819330 3301741 0
+add_contestant_to_team 1267421 291218
+add_contestant 8959107 8871278 0 2424751
+add_contestant_to_team 1267421 4090842
+add_contestant_to_team 8411239 7628129
+add_contestant 8232391 3301741 0 3135872
+remove_contestant_from_team 6338240 291218
+remove_contestant_from_team 6338240 1095237
+add_team 1834848 3301741 0
+remove_contestant_from_team -7255585 7884620
+add_contestant 6734108 955070 0 1395615
+add_contestant_to_team 1834848 8630354
+add_contestant 8078994 955070 0 7296957
+remove_contestant_from_team 1386975 7828471
+remove_contestant_from_team 491660 6576994
+add_contestant 7194301 3301741 0 6927319
+add_contestant_to_team 6211182 7194301
+remove_contestant_from_team 6211182 7194301
+remove_contestant_from_team 491660 4847276
+add_contestant_to_team 6889159 4090842
+remove_contestant_from_team 3295109 8078994
+add_contestant 7885755 8871278 0 7908908
+add_contestant 8689469 955070 0 4037339
+remove_contestant_from_team 8411239 80150
+add_contestant 6978313 3301741 0 6396356
+add_contestant_to_team 9292920 527320
+add_contestant 1047970 8871278 0 4154989
+add_contestant_to_team 2419482 1047970
+remove_contestant_from_team 2419482 1047970
+remove_contestant_from_team -9326988 -1248565
+remove_contestant_from_team 6211182 -6857451
+remove_contestant_from_team 6338240 4090842
+remove_contestant_from_team 8411239 7628129
+remove_contestant_from_team 3770183 7194301
+remove_contestant_from_team 1614920 738675
+add_team 722190 3301741 0
+remove_contestant_from_team 9292920 527320
+add_contestant 137548 8871278 0 6213396
+add_contestant_to_team 9292920 137548
+remove_contestant_from_team 9292920 137548
+remove_contestant_from_team 2046924 -4431945
+remove_contestant_from_team 6265049 862134
+add_contestant_to_team 6265049 7628129
+remove_contestant_from_team 8411239 7885755
+add_contestant 8911175 3301741 0 1520960
+add_contestant_to_team 6211182 8911175
+remove_contestant_from_team 6211182 8911175
+add_contestant 333632 955070 0 4418090
+remove_contestant_from_team -4918475 8442964
+remove_contestant_from_team 9819330 7194301
+remove_contestant_from_team -9239804 5151120
+remove_contestant_from_team -7850513 3981280
+add_contestant 9588065 8871278 0 7973231
+remove_contestant_from_team 491660 2457493
+add_contestant 8570885 955070 0 3965077
+add_contestant_to_team 491660 8570885
+remove_contestant_from_team 491660 8570885
+add_contestant_to_team 7482333 5933066
+remove_contestant_from_team -662089 527320
+add_team 7030534 8871278 0
+add_contestant 4180441 8871278 0 7155690
+remove_contestant_from_team 491660 8800544
+add_contestant 3538800 955070 0 420260
+add_contestant_to_team 2046924 3538800
+remove_contestant_from_team 2046924 3538800
+remove_contestant_from_team 722190 9588065
+add_contestant 7911690 955070 0 1879057
+remove_contestant_from_team -7101332 5733536
+add_contestant 3924734 3301741 0 4347319
+add_contestant_to_team 7733171 3924734
+remove_contestant_from_team 7733171 3924734
+remove_contestant_from_team 1834848 -2381760
+add_contestant 4755896 3301741 0 5415275
+add_contestant 8008131 955070 0 2721541
+add_contestant_to_team 491660 3538800
+add_contestant 8006822 3301741 0 1766129
+add_contestant_to_team 722190 8006822
+remove_contestant_from_team 722190 8006822
+remove_contestant_from_team 8411239 1893615
+remove_contestant_from_team 6889159 8959107
+remove_contestant_from_team 7733171 398313
+remove_contestant_from_team 6889159 4090842
+remove_contestant_from_team 7482333 -840843
+remove_contestant_from_team 6338240 3924734
+add_contestant 959945 3301741 0 8004167
+add_contestant 2001911 8871278 0 7222742
+add_contestant_to_team 6889159 2001911
+remove_contestant_from_team 6889159 2001911
+remove_contestant_from_team 853793 -402193
+remove_contestant_from_team 2419482 -9783667
+add_contestant 7748561 8871278 0 3414295
+add_contestant_to_team 9292920 7748561
+remove_contestant_from_team 9292920 7748561
+add_contestant 7319859 955070 0 5515155
+add_contestant 2723479 955070 0 5844038
+add_contestant_to_team 3295109 4755896
+add_contestant 994556 955070 0 8881723
+remove_contestant_from_team 2419482 3239718
+add_team 7450143 955070 0
+add_contestant 7773590 3301741 0 7776492
+add_contestant_to_team 7733171 5618913
+remove_contestant_from_team 1267421 1128602
+add_contestant_to_team 6211182 5593507
+remove_contestant_from_team 491660 -8912896
+remove_contestant_from_team 9819330 7885755
+add_contestant 9879015 3301741 0 35005
+add_contestant_to_team 3295109 3981280
+add_contestant 4098556 3301741 0 6456285
+add_contestant_to_team 9819330 3924734
+remove_contestant_from_team 9292920 8959107
+add_contestant 7227009 8871278 0 6014357
+add_contestant_to_team 1614920 7227009
+remove_contestant_from_team 1614920 7227009
+add_contestant 6444853 3301741 0 634825
+add_contestant_to_team 1628716 6444853
+remove_contestant_from_team 1628716 6444853
+add_contestant 4014081 3301741 0 7887559
+add_contestant_to_team 1628716 4014081
+remove_contestant_from_team 1628716 4014081
+add_contestant 300259 955070 0 8729767
+add_contestant 7547660 8871278 0 7577310
+add_contestant 3142511 955070 0 3696339
+add_contestant_to_team 491660 300259
+remove_contestant_from_team 7477562 106681
+remove_contestant_from_team 491660 5733536
+add_contestant 3464631 955070 0 5053857
+add_contestant_to_team 8411239 3464631
+remove_contestant_from_team 8411239 3464631
+add_contestant 8267784 8871278 0 5510626
+add_team 9615942 8871278 0
+remove_contestant_from_team 7450143 -7225556
+add_contestant_to_team 1834848 6978313
+remove_contestant_from_team 6265049 2452482
+remove_contestant_from_team 7450143 6784788
+add_contestant 5146085 8871278 0 2818528
+add_contestant_to_team 7030534 5146085
+remove_contestant_from_team 7030534 5146085
+remove_contestant_from_team 9292920 8408206
+add_team 4996186 3301741 0
+remove_contestant_from_team 9958342 8959107
+remove_contestant_from_team 6211182 5593507
+remove_contestant_from_team 722190 3538800
+remove_contestant_from_team 6265049 7628129
+add_contestant_to_team 1614920 137548
+remove_contestant_from_team 6265049 7736937
+remove_contestant_from_team 9292920 1047970
+remove_contestant_from_team 1834848 738675
+add_contestant 9887811 8871278 0 1140592
+add_contestant_to_team 9615942 9887811
+remove_contestant_from_team 9615942 9887811
+add_team 5774415 3301741 0
+remove_contestant_from_team 4996186 6978313
+add_contestant_to_team 1267421 7227009
+add_contestant 3707289 8871278 0 5672395
+remove_contestant_from_team 1376998 8425094
+add_contestant 5438555 955070 0 5861560
+remove_contestant_from_team 9292920 132519
+add_contestant_to_team 6338240 5933066
+remove_contestant_from_team 6265049 -5834499
+add_contestant_to_team 8411239 3142511
+remove_contestant_from_team 1267421 7319859
+add_team 1452052 955070 0
+remove_contestant_from_team 7482333 8008131
+add_contestant_to_team 2419482 1128602
+add_contestant 7725556 8871278 0 4818443
+add_contestant 4954142 955070 0 9474145
+add_contestant_to_team 8411239 8570885
+remove_contestant_from_team 7450143 6524957
+remove_contestant_from_team 1834848 8630354
+remove_contestant_from_team 1452052 8232391
+add_team 1054394 8871278 0
+add_contestant 6740819 8871278 0 2352500
+add_team 8065882 8871278 0
+add_contestant_to_team 1452052 300259
+add_contestant 2790329 955070 0 9205267
+add_contestant 8715389 8871278 0 1051956
+remove_contestant_from_team 986108 3464631
+remove_contestant_from_team -6153446 4755896
+add_contestant_to_team 7030534 7227009
+add_contestant_to_team 4996186 8911175
+add_team 4512660 3301741 0
+add_contestant 6293576 955070 0 4074407
+remove_contestant_from_team 722190 2561169
+remove_contestant_from_team 2046924 468599
+add_contestant_to_team 6338240 2723479
+remove_contestant_from_team 491660 352919
+remove_contestant_from_team 6889159 196388
+add_contestant 3148509 955070 0 2231642
+add_contestant 9168995 8871278 0 1495661
+remove_contestant_from_team 7030534 3348701
+remove_contestant_from_team -9688666 1047970
+add_team 4657500 8871278 0
+add_team 521079 3301741 0
+add_contestant 7437785 3301741 0 1004223
+add_contestant_to_team 1628716 7437785
+remove_contestant_from_team 1628716 7437785
+add_contestant_to_team 1452052 6734108
+remove_contestant_from_team 9292920 8006822
+add_contestant 3503210 955070 0 8586118
+remove_contestant_from_team 1614920 137548
+add_contestant_to_team 7030534 9570817
+remove_contestant_from_team 1628716 106681
+remove_contestant_from_team 2419482 6740819
+remove_contestant_from_team 6338240 5933066
+remove_contestant_from_team 7030534 -8987107
+remove_contestant_from_team -4340485 8570885
+remove_contestant_from_team 8662507 738675
+remove_contestant_from_team 1852986 6734108
+add_contestant 2747125 955070 0 8010973
+remove_contestant_from_team 9292920 453652
+remove_contestant_from_team 5774415 1128602
+add_team 6726037 8871278 0
+add_contestant 9115865 8871278 0 7395007
+remove_contestant_from_team 7733171 9879015
+add_contestant 8016452 8871278 0 4822716
+add_contestant_to_team 1054394 8016452
+remove_contestant_from_team 1054394 8016452
+remove_contestant_from_team 1455667 7725556
+remove_contestant_from_team 8065882 8006822
+add_contestant_to_team 3068351 8911175
+add_contestant 5665083 955070 0 5681618
+add_contestant 6536824 8871278 0 6289574
+add_team 5169921 3301741 0
+remove_contestant_from_team 5395524 9887811
+remove_contestant_from_team 5868247 3924734
+add_contestant_to_team 7482333 3503210
+remove_contestant_from_team 7733171 5618913
+remove_contestant_from_team 5169921 4502436
+add_contestant 6059698 8871278 0 5969937
+add_contestant 5887337 8871278 0 5317942
+add_contestant 2168244 8871278 0 9162618
+add_contestant_to_team 6726037 2168244
+remove_contestant_from_team 6726037 2168244
+add_contestant_to_team 6211182 7194301
+remove_contestant_from_team 3295109 3981280
+remove_contestant_from_team 6211182 5433969
+remove_contestant_from_team 521079 8310085
+remove_contestant_from_team 7030534 3503210
+remove_contestant_from_team 1267421 291218
+remove_contestant_from_team 7030534 5733536
+remove_contestant_from_team 3295109 4755896
+add_contestant 6577136 8871278 0 3394795
+add_contestant_to_team 1614920 6577136
+remove_contestant_from_team 1614920 6577136
+remove_contestant_from_team 7482333 5933066
+remove_contestant_from_team 9819330 80150
+remove_contestant_from_team 5774415 3464631
+add_contestant_to_team 2046924 4954142
+add_contestant_to_team 1267421 591226
+add_contestant 5742886 8871278 0 2742833
+add_contestant 4484600 955070 0 9281335
+add_contestant_to_team 7450143 4484600
+remove_contestant_from_team 7450143 4484600
+remove_contestant_from_team 491660 -7004337
+add_contestant 3358101 8871278 0 4817853
+remove_contestant_from_team 6726037 7628129
+add_contestant_to_team 4512660 959945
+add_contestant_to_team 6889159 2001911
+remove_contestant_from_team 5169921 738675
+add_contestant 9830265 3301741 0 1016239
+add_contestant_to_team 5774415 9830265
+remove_contestant_from_team 5774415 9830265
+add_contestant_to_team 8411239 300259
+remove_contestant_from_team 1006687 -1822009
+add_contestant 1019847 8871278 0 2979696
+add_contestant_to_team 1054394 1019847
+remove_contestant_from_team 1054394 1019847
+add_contestant 6681188 955070 0 9671556
+add_contestant_to_team 7450143 4847276
+remove_contestant_from_team 1834848 6978313
+add_contestant_to_team 9819330 6444853
+remove_contestant_from_team 1628716 3189921
+remove_contestant_from_team 1853029 5742886
+remove_contestant_from_team 7890944 4755896
+remove_contestant_from_team 4996186 6784788
+remove_contestant_from_team 582854 6059698
+add_team 557928 8871278 0
+add_team 4378776 3301741 0
+add_contestant 1141816 8871278 0 2210412
+add_contestant_to_team 4657500 1141816
+remove_contestant_from_team 4657500 1141816
+add_contestant 84450 955070 0 3624337
+remove_contestant_from_team 8411239 6179653
+add_contestant_to_team 6211182 8006822
+remove_contestant_from_team 7450143 4847276
+remove_contestant_from_team 5774415 2723479
+remove_contestant_from_team 4378776 -3804977
+remove_contestant_from_team -2170777 6059698
+remove_contestant_from_team 491660 3538800
+add_contestant 4323572 955070 0 1198927
+add_contestant_to_team 6265049 4323572
+remove_contestant_from_team 6265049 4323572
+add_contestant 2795230 8871278 0 7751957
+add_contestant 3381844 8871278 0 639207
+remove_contestant_from_team 722190 7064062
+remove_contestant_from_team 8411239 300259
+add_contestant 634331 955070 0 4541695
+add_contestant_to_team 6265049 634331
+remove_contestant_from_team 6265049 634331
+remove_contestant_from_team 7450143 3464631
+add_contestant 5274692 3301741 0 3563977
+remove_contestant_from_team -1594347 6444853
+add_contestant 6435563 3301741 0 627246
+add_contestant_to_team 1834848 6435563
+remove_contestant_from_team 1834848 6435563
+add_contestant 7631450 8871278 0 8491651
+remove_contestant_from_team 4996186 8911175
+remove_contestant_from_team 1348157 7620905
+remove_contestant_from_team 4657500 8078994
+add_contestant 2547965 8871278 0 3357121
+add_team 7934961 955070 0
+add_contestant 5820653 8871278 0 9989727
+add_contestant_to_team 8065882 5820653
+remove_contestant_from_team 8065882 5820653
+remove_contestant_from_team -4404667 959945
+add_contestant 9513450 8871278 0 6135217
+remove_contestant_from_team -2318340 6681188
+add_contestant_to_team 6889159 6059698
+remove_contestant_from_team 9819330 4018454
+remove_contestant_from_team 9099876 -57739
+remove_contestant_from_team 2046924 4954142
+remove_contestant_from_team -2189068 465322
+remove_contestant_from_team 8065882 8442964
+add_contestant_to_team 1054394 527320
+remove_contestant_from_team 375261 7194301
+add_team 1656806 8871278 0
+remove_contestant_from_team 9615942 591226
+remove_contestant_from_team -4619047 9566982
+add_contestant_to_team 6265049 4847276
+remove_contestant_from_team -8528045 7884620
+add_contestant_to_team 3295109 3981280
+remove_contestant_from_team 521079 -874074
+add_contestant 538185 955070 0 7771496
+remove_contestant_from_team 491660 2206835
+add_contestant 9316991 955070 0 6445285
+remove_contestant_from_team 2046924 830751
+add_contestant 1848628 955070 0 3816857
+remove_contestant_from_team 1452052 5086539
+remove_contestant_from_team -1559965 3358101
+remove_contestant_from_team 521079 -699436
+add_contestant 478539 955070 0 2247141
+remove_contestant_from_team 8411239 8570885
+remove_contestant_from_team 1656806 8052404
+add_team 6093975 955070 0
+remove_contestant_from_team 491660 300259
+remove_contestant_from_team 3295109 2723479
+add_team 5346658 8871278 0
+remove_contestant_from_team 7934961 2440125
+add_contestant 5193624 8871278 0 9681442
+add_contestant_to_team 4657500 5193624
+remove_contestant_from_team 4657500 5193624
+add_contestant 2877883 955070 0 4657675
+remove_contestant_from_team 1267421 4090842
+remove_contestant_from_team 7030534 8301979
+add_contestant 8098868 8871278 0 9476237
+add_contestant 2215738 955070 0 9652966
+add_team 6857940 955070 0
+remove_contestant_from_team 4906851 4090842
+remove_contestant_from_team 3068351 8911175
+add_contestant 565664 3301741 0 5355586
+add_contestant_to_team 521079 565664
+remove_contestant_from_team 521079 565664
+add_team 3631322 955070 0
+add_team 6264708 3301741 0
+add_team 5713439 3301741 0
+add_contestant_to_team 4512660 8911175
+remove_contestant_from_team -5227982 7725556
+add_contestant 3779273 8871278 0 9945729
+add_contestant_to_team 5346658 3779273
+remove_contestant_from_team 5346658 3779273
+add_team 3355328 955070 0
+add_contestant 7258237 955070 0 3884881
+add_contestant_to_team 6857940 7258237
+remove_contestant_from_team 6857940 7258237
+remove_contestant_from_team 9537634 9168995
+remove_contestant_from_team 1452052 300259
+remove_contestant_from_team 1054394 527320
+add_contestant 1577379 955070 0 4244677
+add_contestant_to_team 7934961 1577379
+remove_contestant_from_team 7934961 1577379
+remove_contestant_from_team 6889159 2001911
+add_contestant 8096296 3301741 0 9345415
+add_contestant_to_team 3068351 8096296
+remove_contestant_from_team 3068351 8096296
+remove_contestant_from_team 7030534 7227009
+add_contestant 4501757 8871278 0 9586942
+remove_contestant_from_team 6338240 738675
+remove_contestant_from_team 6338240 2723479
+add_contestant_to_team 9819330 4014081
+add_contestant 3878766 8871278 0 971525
+add_contestant_to_team 9292920 3878766
+remove_contestant_from_team 9292920 3878766
+remove_contestant_from_team -9740462 2877883
+remove_contestant_from_team -3188431 3464631
+remove_contestant_from_team 4378776 8098868
+add_contestant_to_team 3355328 5665083
+add_team 697812 3301741 0
+remove_contestant_from_team -6262007 7437785
+add_contestant 8471948 3301741 0 9275162
+add_contestant_to_team 521079 8471948
+remove_contestant_from_team 521079 8471948
+remove_contestant_from_team 7934961 2670572
+remove_contestant_from_team 722190 -5652592
+add_contestant 8863296 8871278 0 4856274
+add_contestant_to_team 1628716 7773590
+add_contestant 4874403 8871278 0 7430108
+add_contestant_to_team 1656806 4874403
+remove_contestant_from_team 1656806 4874403
+add_contestant_to_team 5713439 5618913
+remove_contestant_from_team 7030534 2747125
+add_contestant 8668020 8871278 0 5257565
+remove_contestant_from_team 4632576 7227009
+add_contestant 9749248 3301741 0 3279372
+add_contestant 631720 3301741 0 3445752
+remove_contestant_from_team 557928 3779273
+add_contestant 1123623 955070 0 1414694
+add_team 9158633 955070 0
+add_contestant 8343903 3301741 0 9292861
+remove_contestant_from_team 9292920 4090842
+add_contestant 8725469 3301741 0 5337862
+add_contestant_to_team 3068351 8725469
+remove_contestant_from_team 3068351 8725469
+add_contestant 5978563 955070 0 8283251
+add_contestant_to_team 3631322 5978563
+remove_contestant_from_team 3631322 5978563
+remove_contestant_from_team 1054394 8726841
+remove_contestant_from_team 6625550 2926070
+add_contestant 4563526 3301741 0 8375763
+add_contestant_to_team 722190 4563526
+remove_contestant_from_team 722190 4563526
+remove_contestant_from_team 5774415 -467355
+remove_contestant_from_team 8411239 634331
+add_contestant_to_team 8411239 5933066
+remove_contestant_from_team 557928 4874403
+add_contestant 3015855 8871278 0 1624946
+add_contestant 9810910 3301741 0 9438187
+add_contestant_to_team 3068351 9810910
+remove_contestant_from_team 3068351 9810910
+add_contestant 9559811 8871278 0 5958635
+remove_contestant_from_team 6211182 -4813793
+add_contestant 1387928 8871278 0 8342116
+add_contestant_to_team 6211182 9749248
+add_contestant_to_team 4996186 106681
+add_contestant 7621999 8871278 0 4523738
+remove_contestant_from_team 1628716 -7540751
+add_contestant 5438674 3301741 0 9268124
+add_contestant_to_team 697812 5438674
+remove_contestant_from_team 697812 5438674
+remove_contestant_from_team -4964415 7725556
+add_contestant_to_team 8065882 7547660

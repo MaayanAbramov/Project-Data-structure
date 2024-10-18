@@ -1,0 +1,18 @@
+add_country 8909185 7473633
+add_team 4723662 8909185 0
+add_team 9188675 8909185 0
+add_contestant 545529 8909185 0 1942874
+add_contestant 9918668 8909185 0 1469307
+add_contestant 7357085 8909185 0 4467095
+add_contestant 1753508 8909185 0 6785109
+add_contestant 3806144 8909185 0 8479746
+add_contestant 143175 8909185 0 7032331
+add_contestant_to_team 4723662 545529
+add_contestant_to_team 4723662 9918668
+add_contestant_to_team 4723662 7357085
+add_contestant_to_team 9188675 7357085
+add_contestant_to_team 9188675 1753508
+add_contestant_to_team 9188675 3806144
+add_contestant_to_team 9188675 143175
+unite_teams 4723662 9188675
+get_team_strength 4723662

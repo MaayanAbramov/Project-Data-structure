@@ -1,0 +1,188 @@
+add_country 1 0
+add_team 1 1 0
+add_team 2 1 0
+add_team 3 1 0
+add_contestant 1 1 0 1
+add_contestant 2 1 0 1
+add_contestant 3 1 0 1
+add_contestant 4 1 0 1
+add_contestant 5 1 0 1
+add_contestant 6 1 0 1
+add_contestant 7 1 0 1
+add_contestant 8 1 0 1
+add_contestant 9 1 0 1
+add_contestant 10 1 0 1
+add_contestant 11 1 0 1
+add_contestant 12 1 0 1
+add_contestant 13 1 0 1
+add_contestant 14 1 0 1
+add_contestant 15 1 0 1
+add_contestant 16 1 0 1
+add_contestant 17 1 0 1
+add_contestant 18 1 0 1
+add_contestant 19 1 0 1
+add_contestant 20 1 0 1
+add_contestant 21 1 0 1
+add_contestant 22 1 0 1
+add_contestant 23 1 0 1
+add_contestant 24 1 0 1
+add_contestant 25 1 0 1
+add_contestant 26 1 0 1
+add_contestant 27 1 0 1
+add_contestant 28 1 0 1
+add_contestant 29 1 0 1
+add_contestant 30 1 0 1
+add_contestant_to_team 1 1
+add_contestant_to_team 1 2
+add_contestant_to_team 1 3
+add_contestant_to_team 1 4
+add_contestant_to_team 1 5
+add_contestant_to_team 1 6
+add_contestant_to_team 1 7
+add_contestant_to_team 1 8
+add_contestant_to_team 1 9
+add_contestant_to_team 1 10
+add_contestant_to_team 1 11
+add_contestant_to_team 1 12
+add_contestant_to_team 1 13
+add_contestant_to_team 1 14
+add_contestant_to_team 1 15
+add_contestant_to_team 1 16
+add_contestant_to_team 1 17
+add_contestant_to_team 1 18
+add_contestant_to_team 1 19
+add_contestant_to_team 1 20
+add_contestant_to_team 1 21
+add_contestant_to_team 1 22
+add_contestant_to_team 1 23
+add_contestant_to_team 1 24
+add_contestant_to_team 1 25
+add_contestant_to_team 1 26
+add_contestant_to_team 1 27
+add_contestant_to_team 1 28
+add_contestant_to_team 1 29
+add_contestant_to_team 1 30
+add_contestant 111 1 0 1
+add_contestant 112 1 0 1
+add_contestant 113 1 0 1
+add_contestant 114 1 0 1
+add_contestant 115 1 0 1
+add_contestant 116 1 0 1
+add_contestant 117 1 0 1
+add_contestant 118 1 0 1
+add_contestant 119 1 0 1
+add_contestant 1110 1 0 1
+add_contestant 1111 1 0 1
+add_contestant 1112 1 0 1
+add_contestant 1113 1 0 1
+add_contestant 1114 1 0 1
+add_contestant 1115 1 0 1
+add_contestant 1116 1 0 1
+add_contestant 1117 1 0 1
+add_contestant 1118 1 0 1
+add_contestant 1119 1 0 1
+add_contestant 1120 1 0 1
+add_contestant 1121 1 0 1
+add_contestant 1122 1 0 1
+add_contestant 1123 1 0 1
+add_contestant 1124 1 0 1
+add_contestant 1125 1 0 1
+add_contestant 1126 1 0 1
+add_contestant 1127 1 0 1
+add_contestant 1128 1 0 1
+add_contestant 1129 1 0 1
+add_contestant 1130 1 0 1
+add_contestant_to_team 2 111
+add_contestant_to_team 2 112
+add_contestant_to_team 2 113
+add_contestant_to_team 2 114
+add_contestant_to_team 2 115
+add_contestant_to_team 2 116
+add_contestant_to_team 2 117
+add_contestant_to_team 2 118
+add_contestant_to_team 2 119
+add_contestant_to_team 2 1110
+add_contestant_to_team 2 1111
+add_contestant_to_team 2 1112
+add_contestant_to_team 2 1113
+add_contestant_to_team 2 1114
+add_contestant_to_team 2 1115
+add_contestant_to_team 2 1116
+add_contestant_to_team 2 1117
+add_contestant_to_team 2 1118
+add_contestant_to_team 2 1119
+add_contestant_to_team 2 1120
+add_contestant_to_team 2 1121
+add_contestant_to_team 2 1122
+add_contestant_to_team 2 1123
+add_contestant_to_team 2 1124
+add_contestant_to_team 2 1125
+add_contestant_to_team 2 1126
+add_contestant_to_team 2 1127
+add_contestant_to_team 2 1128
+add_contestant_to_team 2 1129
+add_contestant_to_team 2 1130
+get_team_strength 1
+austerity_measures 1
+update_contestant_strength 9 99
+update_contestant_strength 20 9
+update_contestant_strength 21 99
+update_contestant_strength 22 99
+get_team_strength 1
+austerity_measures 1
+unite_teams 1 2
+remove_contestant_from_team 1 1
+remove_contestant_from_team 1 2
+remove_contestant_from_team 1 3
+remove_contestant_from_team 1 10
+remove_contestant_from_team 1 11
+remove_contestant_from_team 1 12
+add_contestant_to_team 3 1
+add_contestant_to_team 3 2
+add_contestant_to_team 3 3
+add_contestant_to_team 3 10
+add_contestant_to_team 3 11
+add_contestant_to_team 3 12
+add_contestant_to_team 3 1111
+add_contestant_to_team 3 1112
+add_contestant_to_team 3 1113
+update_contestant_strength 1111 200
+update_contestant_strength 1112 200
+update_contestant_strength 1113 200
+update_contestant_strength 9 -100
+get_team_strength 1
+austerity_measures 1
+austerity_measures 3
+unite_teams 1 3
+get_team_strength 1
+get_team_strength 3
+austerity_measures 1
+update_contestant_strength 111 400
+austerity_measures 1
+add_contestant_to_team 2 1 
+add_contestant_to_team 2 12
+add_contestant_to_team 2 113
+add_team 3 1 0
+add_contestant_to_team 3 1110
+add_contestant_to_team 3 12
+add_contestant_to_team 3 113
+update_contestant_strength 1110 1000
+update_contestant_strength 12 1000
+update_contestant_strength 113 1000
+get_team_strength 2
+get_team_strength 3
+get_team_strength 1
+austerity_measures 1
+unite_teams 3 2
+get_team_strength 3
+austerity_measures 3
+unite_teams 1 3
+get_team_strength 1
+austerity_measures 1
+update_contestant_strength 12 -990
+get_team_strength 1
+austerity_measures 1
+update_contestant_strength 1110 -1000
+update_contestant_strength 119 1000
+get_team_strength 1
+austerity_measures 1

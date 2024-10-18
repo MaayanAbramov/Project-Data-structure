@@ -1,0 +1,10 @@
+add_country 273601 6046165
+add_team 4986332 273601 3 
+add_contestant 925468 273601 3 3379683
+add_contestant_to_team 925468 4986332
+remove_team 4986332
+remove_contestant 925468
+remove_contestant_from_team 925468 4986332
+remove_team 4986332
+remove_contestant 925468
+remove_country 273601

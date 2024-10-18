@@ -1,0 +1,442 @@
+add_country 9115074 3832896
+add_country 7448590 7049026
+add_country 437811 6280836
+add_team 2522369 7448590 0
+add_team 4734056 7448590 0
+add_team 2711274 9115074 0
+add_team 8618290 437811 0
+add_team 9748043 9115074 0
+add_team 5544867 7448590 0
+add_team 4644719 7448590 0
+add_team 9213677 7448590 0
+add_contestant 98406 437811 0 4384994
+add_contestant 5712387 437811 0 3923395
+add_contestant 27397 7448590 0 2784459
+add_contestant 4153799 437811 0 1991085
+add_contestant 727790 437811 0 9605802
+add_contestant 1521079 437811 0 7039741
+add_contestant 1083541 9115074 0 3325187
+add_contestant 9902081 9115074 0 5240199
+add_contestant 6103401 437811 0 4503569
+add_contestant 7757750 437811 0 3750416
+add_contestant 1803008 9115074 0 1965143
+add_contestant 4193128 9115074 0 2230149
+add_contestant 386559 9115074 0 1850395
+add_contestant 168101 9115074 0 9129583
+add_contestant 4022406 7448590 0 5561581
+add_contestant 4408181 437811 0 6931886
+add_contestant 2812834 437811 0 6705287
+add_contestant 3700792 7448590 0 2258050
+add_contestant 9067518 7448590 0 8557593
+add_contestant 7606265 7448590 0 3973235
+add_contestant_to_team 2711274 1083541
+add_contestant_to_team 8618290 98406
+add_contestant_to_team 8618290 7757750
+add_contestant_to_team 8618290 4408181
+add_contestant_to_team 2711274 1803008
+add_contestant_to_team 5544867 7606265
+add_team 1387074 9115074 0
+add_contestant_to_team 8618290 5712387
+add_contestant_to_team 8618290 6103401
+add_contestant 352216 7448590 0 7554525
+add_contestant_to_team 2522369 352216
+add_contestant_to_team 8618290 1521079
+play_match 2522369 4644719
+add_contestant 4741423 7448590 0 3754736
+add_contestant 6361967 9115074 0 7014546
+add_contestant_to_team 9748043 9902081
+play_match 2522369 2711274
+play_match 9748043 2360621
+add_contestant_to_team 8618290 2812834
+add_team 4031388 7448590 0
+add_contestant_to_team 2711274 6361967
+play_match 1387074 8618290
+add_contestant_to_team 8618290 4153799
+add_contestant_to_team 1387074 1803008
+play_match 2522369 2711274
+add_contestant_to_team 8618290 727790
+add_contestant_to_team 4734056 4022406
+play_match 2067797 9213677
+add_contestant_to_team 9748043 6361967
+add_contestant_to_team 2711274 4193128
+add_team 1099532 9115074 0
+play_match 4734056 9213677
+add_contestant 8745427 437811 0 823350
+add_contestant_to_team 8618290 8745427
+get_medals 9115074
+add_contestant 8141886 7448590 0 7262472
+add_contestant_to_team 9213677 8141886
+remove_contestant_from_team 9213677 8141886
+get_medals 437811
+play_match -5341825 -5341825
+add_team 5261511 437811 0
+play_match 4031388 4031388
+play_match 4031388 5984276
+play_match 2711274 5261511
+get_medals 9115074
+play_match -3679856 4734056
+play_match 4551616 9213677
+get_medals 7448590
+play_match 4644719 2522369
+play_match 4031388 2522369
+add_contestant_to_team 5261511 727790
+add_contestant_to_team 4734056 4741423
+play_match 8354700 2457543
+play_match 4644719 1387074
+add_contestant_to_team 9748043 386559
+play_match 1387074 4031388
+get_medals 7448590
+add_contestant_to_team 1099532 6361967
+get_medals 9115074
+get_medals 437811
+play_match -921918 2522369
+get_medals 437811
+play_match 6083531 9213677
+play_match 9213677 4031388
+get_medals 9115074
+play_match 4031388 4644719
+add_contestant_to_team 4031388 4022406
+get_medals 9115074
+get_medals 437811
+play_match 4644719 5261511
+add_team 7396307 9115074 0
+remove_contestant_from_team 2522369 352216
+add_contestant 20854 9115074 0 9767371
+add_contestant 4010150 437811 0 824621
+add_contestant_to_team 8618290 4010150
+add_contestant 1875032 9115074 0 2483199
+add_team 413427 7448590 0
+add_contestant_to_team 1099532 1875032
+play_match 8618290 9213677
+add_team 9119715 9115074 0
+add_contestant_to_team 5261511 5712387
+play_match 5261511 5544867
+play_match 9119715 7396307
+play_match 9119715 4644719
+add_contestant_to_team 1099532 168101
+play_match 7396307 5261511
+add_contestant_to_team 5544867 3700792
+get_medals 437811
+add_contestant_to_team 413427 352216
+add_team 2464007 437811 0
+remove_contestant_from_team 1387074 1803008
+play_match 4644719 5261511
+add_team 8214120 9115074 0
+play_match 413427 413427
+add_contestant_to_team 7396307 20854
+play_match 5544867 1387074
+add_team 3646710 7448590 0
+get_medals 9115074
+play_match 4644719 8618290
+play_match 9748043 1099532
+add_team 4452916 7448590 0
+play_match 4031388 2711274
+play_match 9748043 9748043
+add_team 600656 9115074 0
+play_match 413427 4452916
+get_medals 9115074
+add_contestant_to_team 2522369 3700792
+get_medals 437811
+play_match -7285032 -7285032
+remove_contestant_from_team 9748043 386559
+get_medals 437811
+play_match 9213677 413427
+play_match 4734056 4734056
+get_medals 7448590
+play_match -1654964 4734056
+play_match 2711274 9119715
+get_medals 7448590
+add_team 1330235 7448590 0
+add_contestant 6763274 437811 0 9225468
+add_contestant_to_team 2464007 6763274
+remove_contestant_from_team 2464007 6763274
+add_contestant_to_team 8214120 4193128
+get_medals 9115074
+add_contestant 5249948 7448590 0 7752869
+add_contestant 7236313 7448590 0 9438952
+play_match 9213677 5261511
+play_match 2464007 4734056
+get_medals 9115074
+add_team 4341312 7448590 0
+add_team 6591401 437811 0
+play_match 6591401 8618290
+play_match 6591401 2522369
+get_medals 7448590
+play_match 4341312 5261511
+play_match 9213677 4031388
+play_match 9119715 2711274
+play_match 9119715 4031388
+play_match 1387074 600656
+get_medals 9115074
+add_team 5157063 7448590 0
+play_match 413427 2522369
+play_match 9748043 5544867
+play_match 413427 7396307
+add_contestant 2020251 7448590 0 5976426
+get_medals 7448590
+play_match 9213677 413427
+add_contestant_to_team 2464007 4153799
+play_match 4031388 4644719
+play_match 4452916 5544867
+add_contestant_to_team 1387074 1875032
+add_contestant_to_team 9748043 4193128
+play_match 9119715 8618290
+add_contestant_to_team 5261511 7757750
+add_contestant_to_team 8618290 6763274
+get_medals 7448590
+play_match 4734056 4452916
+play_match 4031388 4452916
+play_match 9119715 4644719
+play_match -3346449 -3346449
+add_contestant 2360171 437811 0 9820827
+add_contestant 7760268 437811 0 9253314
+play_match 9213677 4452916
+play_match 4341312 4031388
+play_match 4734056 6591401
+add_contestant 7155795 9115074 0 9369624
+add_contestant_to_team 7396307 7155795
+add_contestant_to_team 4031388 27397
+get_medals 7448590
+add_contestant_to_team 8618290 2360171
+add_contestant_to_team 1099532 386559
+add_team 9955586 9115074 0
+get_medals 437811
+play_match -6983239 -6983239
+get_medals 7448590
+add_team 789852 9115074 0
+get_medals 7448590
+add_contestant_to_team 3646710 9067518
+get_medals 7448590
+play_match 1099532 9748043
+get_medals 7448590
+play_match 9748043 413427
+play_match 8214120 -5842461
+play_match 2711274 1099532
+play_match 7396307 9213677
+get_medals 437811
+play_match 5157063 2711274
+play_match 600656 1387074
+add_contestant_to_team 2464007 2812834
+add_contestant_to_team 1099532 9902081
+get_medals 437811
+get_medals 9115074
+play_match 9955586 1099532
+add_team 3020891 437811 0
+get_medals 437811
+get_medals 7448590
+play_match 6469146 268127
+play_match 4734056 8618290
+play_match 789852 8618290
+get_medals 7448590
+get_medals 437811
+play_match 9213677 4734056
+play_match 8618290 2711274
+get_medals 437811
+add_team 716835 437811 0
+play_match 716835 2522369
+play_match 1099532 4031388
+play_match 9119715 9213677
+play_match 789852 9748043
+play_match 716835 5261511
+get_medals 9115074
+add_contestant_to_team 789852 4193128
+get_medals 7448590
+add_team 7617813 9115074 0
+add_contestant_to_team 789852 168101
+add_team 9108207 437811 0
+get_medals 7448590
+get_medals 9115074
+play_match 303585 303585
+play_match -1830558 789852
+play_match 789852 600656
+play_match 4644719 5544867
+get_medals 7448590
+play_match 5544867 6591401
+get_medals 437811
+add_contestant_to_team 716835 4153799
+get_medals 9115074
+play_match 4031388 3646710
+add_contestant 9117692 7448590 0 8699378
+get_medals 7448590
+play_match 5157063 5544867
+add_contestant 9256152 7448590 0 7899264
+play_match 3020891 4341312
+play_match 3646710 1099532
+add_contestant_to_team 4341312 352216
+add_team 8808986 7448590 0
+play_match 413427 4031388
+play_match -5941624 1099532
+play_match 716835 9955586
+play_match 8781209 5157063
+add_contestant_to_team 9213677 3700792
+remove_contestant_from_team 7396307 20854
+add_contestant 4804108 437811 0 2986714
+add_contestant_to_team 6591401 98406
+play_match 9748043 -8402858
+play_match 5544867 1387074
+add_contestant 1552676 7448590 0 9032762
+play_match 4397372 4397372
+play_match 9515088 -1715440
+add_contestant_to_team 9213677 8141886
+play_match 2522369 1387074
+get_medals 9115074
+play_match 6591401 9955586
+get_medals 7448590
+play_match 9119715 9955586
+play_match 9213677 8808986
+get_medals 437811
+play_match 789852 1099532
+play_match 6591401 4586773
+get_medals 7448590
+get_medals 7448590
+get_medals 7448590
+add_contestant_to_team 3646710 27397
+play_match 4644719 9955586
+add_contestant_to_team 9108207 2812834
+get_medals 7448590
+add_team 2032649 437811 0
+add_contestant_to_team 2032649 4153799
+add_contestant_to_team 600656 386559
+play_match 5157063 -7312828
+get_medals 9115074
+get_medals 437811
+play_match 716835 716835
+get_medals 437811
+play_match 4452916 789852
+get_medals 437811
+play_match 1387074 1387074
+play_match 6591401 2711274
+play_match 2711274 2711274
+play_match -3866605 -3866605
+play_match 7396307 2711274
+add_contestant_to_team 2464007 4408181
+get_medals 7448590
+play_match 9108207 9108207
+add_contestant_to_team 6591401 727790
+add_contestant 9088147 437811 0 5035763
+play_match 8808986 4031388
+add_contestant_to_team 1099532 7155795
+add_contestant_to_team 413427 4741423
+add_contestant 6612083 9115074 0 5780830
+get_medals 7448590
+play_match 7617813 6591401
+play_match 5157063 600656
+play_match 2032649 5261511
+play_match 4341312 6591401
+play_match 7617813 9108207
+get_medals 437811
+play_match 4452916 8214120
+get_medals 9115074
+add_contestant_to_team 9119715 1803008
+add_team 5620838 7448590 0
+add_contestant_to_team 789852 386559
+get_medals 437811
+add_contestant_to_team 9108207 6763274
+play_match 9748043 3020891
+add_team 4971134 437811 0
+play_match -5340649 789852
+get_medals 9115074
+play_match 2032649 9119715
+add_team 560569 7448590 0
+add_contestant_to_team 8618290 9088147
+add_team 1957771 7448590 0
+add_contestant 2292188 437811 0 4978162
+add_contestant_to_team 4734056 27397
+get_medals 9115074
+remove_contestant_from_team 8618290 6763274
+play_match 8618290 4031388
+remove_contestant_from_team 9108207 2812834
+play_match 7617813 3020891
+add_contestant_to_team 2522369 9067518
+add_team 8073185 437811 0
+play_match 8808986 8808986
+add_contestant_to_team 413427 2020251
+get_medals 9115074
+get_medals 9115074
+add_contestant_to_team 6591401 7757750
+get_medals 437811
+add_team 7182206 9115074 0
+add_contestant 6027561 9115074 0 415818
+add_team 6327401 9115074 0
+play_match 7182206 4031388
+add_team 9237926 9115074 0
+play_match 7617813 8808986
+play_match 1099532 600656
+add_contestant 9963851 7448590 0 4188129
+get_medals 9115074
+play_match 9108207 -7950498
+add_contestant 4746771 9115074 0 7728252
+play_match 413427 9237926
+get_medals 437811
+get_medals 7448590
+play_match 1387074 7396307
+get_medals 437811
+add_contestant_to_team 716835 2360171
+get_medals 9115074
+add_contestant_to_team 716835 2812834
+add_contestant 2736645 9115074 0 8186984
+play_match 600656 3020891
+add_team 5409627 9115074 0
+get_medals 7448590
+add_team 910791 7448590 0
+play_match 2711274 9119715
+add_contestant_to_team 600656 20854
+play_match 4971134 4971134
+remove_contestant_from_team 3646710 27397
+play_match -6922428 6516662
+add_contestant_to_team 4734056 8141886
+get_medals 9115074
+get_medals 9115074
+add_contestant 5519415 9115074 0 9345893
+add_team 3818117 7448590 0
+play_match 5544867 2522369
+add_contestant_to_team 1330235 7606265
+add_team 9702177 7448590 0
+add_contestant 9232002 7448590 0 8659527
+play_match 3406200 3913958
+add_team 4086745 7448590 0
+add_contestant_to_team 413427 4022406
+add_contestant_to_team 2464007 8745427
+play_match 2711274 2711274
+add_team 8648045 7448590 0
+add_contestant_to_team 2464007 7757750
+get_medals 437811
+play_match 9108207 6591401
+play_match 6327401 2511332
+get_medals 7448590
+add_contestant_to_team 7617813 1803008
+play_match 9955586 5157063
+play_match 3818117 4364588
+get_medals 9115074
+play_match 5859322 789852
+get_medals 9115074
+play_match 4452916 4341312
+play_match 4341312 8073185
+play_match 5157063 4086745
+remove_contestant_from_team 789852 4193128
+play_match 8648045 9119715
+add_team 5934472 7448590 0
+play_match 5261511 5934472
+play_match 5409627 5620838
+play_match 560569 -949343
+get_medals 7448590
+add_team 2505694 7448590 0
+get_medals 7448590
+play_match 5261511 8073185
+add_contestant 80000 437811 0 1064766
+play_match 600656 9702177
+get_medals 9115074
+play_match 2711274 716835
+get_medals 437811
+get_medals 437811
+add_contestant_to_team 560569 3700792
+play_match 4086745 3020891
+add_team 7284808 7448590 0
+get_medals 437811
+add_contestant_to_team 8073185 7757750
+get_medals 9115074
+play_match 4031388 9213677
+add_contestant_to_team 4086745 7606265
+get_medals 7448590
+play_match 4452916 8618290
+add_contestant_to_team 5261511 98406

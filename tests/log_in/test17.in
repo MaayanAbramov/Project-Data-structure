@@ -1,0 +1,11 @@
+add_country 86630 7198260
+add_contestant 7942229 86630 0 8245866
+add_contestant 9152895 86630 4 1022277
+add_contestant 262565 86630 1 5512043
+remove_country 86630
+remove_contestant 262565
+remove_country 86630
+remove_contestant 9152895
+remove_country 86630
+remove_contestant 7942229
+remove_country 86630

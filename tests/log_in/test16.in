@@ -1,0 +1,404 @@
+add_country 4263645 4754284
+add_contestant 9930159 4263645 0 9229184
+add_country 9770789 2464574
+add_contestant 8232170 9770789 0 2287412
+get_strength 9930159
+get_strength 8232170
+update_contestant_strength 9930159 -6528741
+update_contestant_strength 8232170 -1417184
+update_contestant_strength 9930159 554501
+get_strength 8232170
+add_contestant 9055929 9770789 0 8406138
+update_contestant_strength 9930159 -479934
+add_contestant 2578060 9770789 0 4043497
+get_strength 8232170
+get_strength 9930159
+update_contestant_strength 2578060 3474555
+add_contestant 1046936 9770789 0 3401663
+update_contestant_strength 9930159 -5559627
+update_contestant_strength 2578060 -3184952
+add_contestant 5057539 4263645 0 9516446
+update_contestant_strength 5057539 -3069381
+add_contestant 9375525 4263645 0 3323212
+add_contestant 8689918 9770789 0 4817876
+add_contestant 2843084 4263645 0 5518510
+update_contestant_strength 5057539 -7607658
+update_contestant_strength 8689918 -3685965
+update_contestant_strength 8689918 171354
+add_contestant 4805658 4263645 0 3620831
+get_strength 8689918
+get_strength 1046936
+get_strength 9055929
+get_strength 8232170
+update_contestant_strength 8232170 1129903
+add_contestant 6492372 9770789 0 9933416
+get_strength 6492372
+add_contestant 5517914 9770789 0 8114687
+get_strength 9930159
+update_contestant_strength 9055929 -9180944
+add_contestant 1828335 4263645 0 276875
+add_contestant 8745007 4263645 0 8097326
+update_contestant_strength 5517914 5311924
+get_strength 5517914
+update_contestant_strength 2843084 8633249
+update_contestant_strength 8745007 6496977
+get_strength 2578060
+update_contestant_strength 4805658 4572508
+update_contestant_strength 4805658 5341358
+update_contestant_strength 1828335 6369795
+add_contestant 7540454 4263645 0 8834874
+get_strength 6492372
+get_strength 5517914
+add_contestant 1753215 4263645 0 8229912
+update_contestant_strength 9930159 -6987641
+get_strength 1046936
+update_contestant_strength 1828335 7122776
+add_contestant 6151102 9770789 0 5876788
+update_contestant_strength 9375525 9110983
+get_strength 2843084
+get_strength 1753215
+add_contestant 6239522 9770789 0 2405587
+add_contestant 8201403 9770789 0 3311097
+update_contestant_strength 6492372 8677000
+update_contestant_strength 1046936 -5286640
+add_contestant 1937027 4263645 0 9040952
+add_contestant 3294583 4263645 0 3702931
+update_contestant_strength 6151102 2866629
+add_contestant 6701389 9770789 0 3598835
+get_strength 1828335
+update_contestant_strength 8232170 -4368253
+add_contestant 5662157 9770789 0 7396705
+update_contestant_strength 5517914 2972848
+get_strength 8232170
+update_contestant_strength 5662157 -2376948
+get_strength 2843084
+add_contestant 4486759 9770789 0 4287219
+update_contestant_strength 4486759 -6394534
+get_strength 3294583
+add_contestant 4032877 9770789 0 3105342
+add_contestant 1325281 9770789 0 8855944
+update_contestant_strength 1937027 1496346
+add_contestant 828441 9770789 0 2833539
+get_strength 6701389
+add_contestant 6809787 4263645 0 1823136
+add_contestant 2822216 9770789 0 2487949
+get_strength 2578060
+get_strength 8745007
+get_strength 6809787
+update_contestant_strength 6809787 4050126
+add_contestant 7978185 9770789 0 4951108
+add_contestant 7698889 4263645 0 7636100
+get_strength 2822216
+add_contestant 2879402 4263645 0 5134366
+get_strength 5057539
+update_contestant_strength 6151102 -2050970
+update_contestant_strength 2578060 9511185
+get_strength 3294583
+add_contestant 3945508 9770789 0 6733365
+get_strength 9375525
+get_strength 3945508
+add_contestant 8443973 9770789 0 5531132
+update_contestant_strength 6492372 -8983696
+update_contestant_strength 6809787 -6144748
+add_contestant 300083 4263645 0 8320366
+get_strength 7698889
+update_contestant_strength 2822216 201276
+update_contestant_strength 4032877 3250817
+get_strength 1753215
+get_strength 4486759
+add_contestant 9079168 9770789 0 348344
+get_strength 2822216
+add_contestant 5909936 9770789 0 6947438
+update_contestant_strength 5517914 -2209425
+add_contestant 2296414 9770789 0 5053353
+get_strength 2822216
+add_contestant 8718566 9770789 0 4220059
+update_contestant_strength 4486759 -4290029
+add_contestant 3187555 9770789 0 1502028
+add_contestant 4508794 4263645 0 6979715
+get_strength 5909936
+add_contestant 7461331 9770789 0 9128444
+add_contestant 4585031 4263645 0 728254
+add_contestant 7592653 9770789 0 9939037
+update_contestant_strength 5662157 22478
+add_contestant 9504245 4263645 0 6782291
+update_contestant_strength 2296414 4959610
+update_contestant_strength 8689918 -1778191
+add_contestant 7208076 9770789 0 2039612
+add_contestant 628676 9770789 0 5328678
+get_strength 1325281
+add_contestant 1206154 9770789 0 8065239
+add_contestant 2659102 9770789 0 3451833
+update_contestant_strength 6151102 -1538285
+update_contestant_strength 3187555 9290680
+update_contestant_strength 4032877 7066600
+get_strength 2879402
+add_contestant 9093728 4263645 0 1108561
+add_contestant 3357682 4263645 0 6274766
+get_strength 3294583
+get_strength 8745007
+get_strength 9930159
+update_contestant_strength 2843084 -8407459
+add_contestant 7416205 9770789 0 4480320
+update_contestant_strength 4508794 7683274
+update_contestant_strength 828441 -347893
+add_contestant 8462226 4263645 0 67253
+get_strength 4585031
+add_contestant 1320060 4263645 0 7027279
+add_contestant 1133939 4263645 0 8804522
+add_contestant 4806285 9770789 0 3296326
+add_contestant 7253559 4263645 0 9800944
+update_contestant_strength 2843084 1106064
+update_contestant_strength 6239522 7091151
+update_contestant_strength 6809787 8077527
+update_contestant_strength 628676 -2761275
+get_strength 1320060
+get_strength 7978185
+add_contestant 8621786 4263645 0 6408660
+update_contestant_strength 5057539 -7947557
+get_strength 2578060
+add_contestant 6079750 4263645 0 2004852
+update_contestant_strength 8745007 7511427
+update_contestant_strength 1828335 7244360
+update_contestant_strength 6079750 3107033
+get_strength 7416205
+add_contestant 7742269 9770789 0 7057353
+update_contestant_strength 9055929 6494179
+update_contestant_strength 8621786 3667005
+update_contestant_strength 4032877 -48615
+update_contestant_strength 1046936 5920953
+get_strength 9375525
+update_contestant_strength 828441 1026574
+add_contestant 8849674 9770789 0 6061489
+add_contestant 32008 9770789 0 656667
+add_contestant 2603776 4263645 0 9894042
+update_contestant_strength 6079750 2975791
+add_contestant 161945 9770789 0 1047964
+update_contestant_strength 9375525 -2400844
+get_strength 9375525
+add_contestant 8294302 4263645 0 5578002
+update_contestant_strength 8232170 -3617934
+update_contestant_strength 4486759 -5294056
+get_strength 6701389
+add_contestant 9743076 4263645 0 9802580
+get_strength 4032877
+update_contestant_strength 8443973 -9378934
+update_contestant_strength 1046936 6311627
+get_strength 4585031
+add_contestant 9751345 9770789 0 324605
+update_contestant_strength 8294302 5685627
+add_contestant 8307813 9770789 0 7775053
+add_contestant 1974757 4263645 0 655733
+update_contestant_strength 3945508 -9393122
+add_contestant 9910331 9770789 0 5124494
+update_contestant_strength 8201403 8759473
+get_strength 7253559
+add_contestant 9053864 4263645 0 1646957
+update_contestant_strength 9375525 4592151
+update_contestant_strength 6492372 5311748
+update_contestant_strength 6079750 -3427267
+get_strength 1320060
+get_strength 5057539
+update_contestant_strength 2296414 -8643556
+add_contestant 8611868 9770789 0 4290193
+get_strength 9053864
+add_contestant 424600 9770789 0 4688794
+get_strength 300083
+add_contestant 3694521 9770789 0 6310690
+add_contestant 845499 4263645 0 3825321
+get_strength 2578060
+add_contestant 679601 9770789 0 6676077
+update_contestant_strength 5662157 3068327
+get_strength 161945
+update_contestant_strength 8849674 -5135277
+add_contestant 2726546 4263645 0 2943427
+add_contestant 6717091 4263645 0 4193662
+add_contestant 9154132 4263645 0 128961
+get_strength 6701389
+get_strength 2296414
+get_strength 5909936
+get_strength 6079750
+get_strength 2659102
+update_contestant_strength 424600 -235018
+update_contestant_strength 2296414 -4926816
+update_contestant_strength 1937027 4248374
+add_contestant 8957286 9770789 0 5881188
+get_strength 9055929
+update_contestant_strength 7416205 -6004881
+get_strength 9751345
+update_contestant_strength 1828335 43905
+get_strength 4806285
+add_contestant 9654307 9770789 0 7484662
+update_contestant_strength 161945 -672261
+update_contestant_strength 6151102 -1998455
+add_contestant 4311174 4263645 0 9924885
+update_contestant_strength 161945 -9104361
+add_contestant 5958663 4263645 0 7264554
+update_contestant_strength 9930159 646967
+update_contestant_strength 8294302 9016574
+get_strength 9093728
+update_contestant_strength 8294302 -1406324
+get_strength 9154132
+add_contestant 8907247 4263645 0 4592995
+get_strength 8232170
+add_contestant 8950945 9770789 0 3403282
+update_contestant_strength 8307813 -6688904
+add_contestant 231302 4263645 0 6968020
+get_strength 9055929
+get_strength 8957286
+update_contestant_strength 8307813 8516986
+update_contestant_strength 7742269 7550785
+add_contestant 6052054 9770789 0 5730016
+get_strength 9743076
+add_contestant 7250513 4263645 0 780147
+add_contestant 1506131 4263645 0 6009735
+update_contestant_strength 9053864 -96197
+update_contestant_strength 4806285 5994900
+add_contestant 8342542 9770789 0 3175768
+add_contestant 2569825 9770789 0 616223
+add_contestant 3311516 4263645 0 3787105
+update_contestant_strength 845499 -5524273
+add_contestant 8022838 9770789 0 3015974
+add_contestant 66580 9770789 0 5080392
+add_contestant 7242026 4263645 0 1803979
+add_contestant 652998 9770789 0 6505364
+get_strength 2879402
+get_strength 4486759
+add_contestant 2786815 9770789 0 4847713
+add_contestant 9425112 4263645 0 8892707
+get_strength 5909936
+add_contestant 2916003 4263645 0 1707184
+get_strength 6492372
+get_strength 66580
+get_strength 1937027
+update_contestant_strength 9053864 -7521176
+get_strength 424600
+get_strength 3187555
+add_contestant 6381116 9770789 0 4708065
+add_contestant 7080465 9770789 0 9677441
+update_contestant_strength 4585031 7065768
+update_contestant_strength 5909936 5419885
+update_contestant_strength 9375525 4108
+update_contestant_strength 2578060 -1510428
+update_contestant_strength 300083 -1555691
+update_contestant_strength 3357682 -2319563
+get_strength 8611868
+get_strength 2569825
+get_strength 1753215
+update_contestant_strength 4805658 -6549329
+add_contestant 1993051 4263645 0 1078392
+add_contestant 8698652 4263645 0 6711387
+add_contestant 2754062 4263645 0 5574338
+update_contestant_strength 679601 5165768
+add_contestant 8175990 9770789 0 8389261
+add_contestant 7138701 9770789 0 9263216
+update_contestant_strength 7592653 1126685
+get_strength 2659102
+get_strength 6809787
+update_contestant_strength 6809787 4869660
+update_contestant_strength 8201403 1256920
+add_contestant 2326456 9770789 0 4588887
+get_strength 3294583
+add_contestant 3207985 4263645 0 9803759
+get_strength 2822216
+update_contestant_strength 652998 531286
+update_contestant_strength 7080465 8774079
+get_strength 628676
+update_contestant_strength 652998 -9796636
+update_contestant_strength 4032877 -1815772
+get_strength 7253559
+update_contestant_strength 2754062 5134256
+update_contestant_strength 828441 2487105
+update_contestant_strength 9743076 -2771222
+update_contestant_strength 6717091 -8034448
+get_strength 1993051
+add_contestant 8039024 4263645 0 4289650
+get_strength 4032877
+add_contestant 7645571 4263645 0 6600769
+get_strength 2603776
+add_contestant 3731955 4263645 0 8151884
+add_contestant 9846116 4263645 0 1766080
+update_contestant_strength 8342542 9251047
+add_contestant 8526494 4263645 0 8602452
+add_contestant 8694314 4263645 0 1223486
+update_contestant_strength 8022838 8547850
+update_contestant_strength 8907247 -6183377
+add_contestant 5539626 9770789 0 7202009
+update_contestant_strength 5517914 -6457472
+get_strength 8039024
+add_contestant 9362603 9770789 0 799685
+update_contestant_strength 1993051 320089
+update_contestant_strength 2296414 733494
+update_contestant_strength 6079750 -9443636
+get_strength 1206154
+update_contestant_strength 6079750 -5595803
+get_strength 7742269
+update_contestant_strength 6717091 -5035395
+add_contestant 8831655 9770789 0 3629566
+get_strength 8621786
+get_strength 2659102
+get_strength 5662157
+update_contestant_strength 8745007 -2983094
+get_strength 8232170
+get_strength 7978185
+add_contestant 4429501 4263645 0 2544618
+get_strength 7592653
+get_strength 1753215
+get_strength 9846116
+update_contestant_strength 9079168 -1831327
+get_strength 8201403
+add_contestant 7335413 9770789 0 6114873
+update_contestant_strength 9375525 7410622
+add_contestant 3460301 9770789 0 3578267
+get_strength 1993051
+add_contestant 2297178 4263645 0 1750217
+update_contestant_strength 8232170 -8642467
+update_contestant_strength 8201403 -5427998
+add_contestant 4448284 4263645 0 6717825
+update_contestant_strength 2578060 9354336
+get_strength 6079750
+get_strength 8718566
+update_contestant_strength 8232170 -5758639
+get_strength 2603776
+get_strength 6492372
+add_contestant 3264239 9770789 0 295421
+get_strength 8443973
+get_strength 7742269
+update_contestant_strength 8294302 -1222564
+add_contestant 3570456 4263645 0 2138998
+get_strength 8718566
+add_contestant 4005089 4263645 0 2710556
+get_strength 3357682
+add_contestant 6673803 4263645 0 1952598
+add_contestant 5700521 9770789 0 9557339
+update_contestant_strength 5700521 -7927760
+update_contestant_strength 3294583 -2990143
+update_contestant_strength 2569825 -6538596
+add_contestant 3040389 9770789 0 8582326
+get_strength 2786815
+update_contestant_strength 66580 -8110962
+get_strength 4508794
+update_contestant_strength 8957286 1450661
+update_contestant_strength 1937027 712011
+get_strength 1046936
+add_contestant 2389353 4263645 0 3093425
+get_strength 5958663
+get_strength 9654307
+update_contestant_strength 5057539 -2235888
+update_contestant_strength 6809787 -8949761
+get_strength 2389353
+get_strength 2916003
+add_contestant 8274117 9770789 0 7389739
+update_contestant_strength 8698652 4265883
+update_contestant_strength 8307813 -1427860
+get_strength 4448284
+add_contestant 8575476 9770789 0 6596239
+add_contestant 9201610 9770789 0 5884433
+add_contestant 7604914 9770789 0 3961729
+get_strength 9055929
+get_strength 7253559
+add_contestant 694021 4263645 0 6332931
+update_contestant_strength 7080465 -5989631
+add_contestant 6476779 4263645 0 8217256
+add_contestant 1475766 4263645 0 6039837
+get_strength 2754062

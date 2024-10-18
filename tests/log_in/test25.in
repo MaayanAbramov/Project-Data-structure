@@ -1,0 +1,472 @@
+add_country 5523977 2648388
+add_country 4475247 8784555
+add_country 3856428 6538329
+add_team 7886065 3856428 0
+add_team 7947273 3856428 0
+add_team 5960954 4475247 0
+add_team 6115398 3856428 0
+add_team 7025706 4475247 0
+add_team 6689173 5523977 0
+add_team 5042683 3856428 0
+add_team 4464168 4475247 0
+add_contestant 4404528 4475247 0 8191817
+add_contestant 1193957 3856428 0 1785983
+add_contestant 910622 3856428 0 5581729
+add_contestant 8514382 4475247 0 3283434
+add_contestant 1241831 4475247 0 4968259
+add_contestant 2374769 3856428 0 1700348
+add_contestant 2928193 5523977 0 5964019
+add_contestant 618135 4475247 0 9213714
+add_contestant 8952359 4475247 0 9771671
+add_contestant 1584938 3856428 0 6080439
+add_contestant 159650 5523977 0 1185762
+add_contestant 8167057 4475247 0 7480119
+add_contestant 5273175 5523977 0 1682360
+add_contestant 6103941 5523977 0 4972363
+add_contestant 1629868 4475247 0 2122931
+add_contestant 8203479 3856428 0 5654526
+add_contestant 8472360 3856428 0 9360864
+add_contestant 1067293 3856428 0 9701800
+add_contestant 4679729 5523977 0 213018
+add_contestant 2289985 5523977 0 6068640
+add_contestant_to_team 7886065 1193957
+add_contestant_to_team 7025706 8952359
+add_contestant_to_team 6689173 6103941
+add_contestant_to_team 4464168 618135
+add_contestant_to_team 7025706 618135
+get_team_strength 2868285
+get_team_strength -1385269
+add_contestant_to_team 6689173 4679729
+get_team_strength 7886065
+add_contestant 5309335 3856428 0 4684906
+add_contestant_to_team 5042683 5309335
+remove_contestant_from_team 5042683 5309335
+get_team_strength 7886065
+get_team_strength 7947273
+get_team_strength 6877800
+get_team_strength -1926851
+add_contestant_to_team 6689173 2289985
+add_contestant 3790320 3856428 0 7830144
+add_contestant_to_team 5042683 3790320
+remove_contestant_from_team 5042683 3790320
+add_contestant 8887016 5523977 0 2385697
+get_team_strength 6689173
+get_team_strength 6689173
+get_team_strength -9651258
+get_team_strength 6689173
+add_team 9660811 3856428 0
+add_team 5291829 5523977 0
+add_contestant_to_team 5960954 618135
+get_team_strength 1421428
+get_team_strength 6689173
+get_team_strength -3007402
+get_team_strength -7857962
+add_contestant 2200739 4475247 0 2654641
+add_contestant 9312989 5523977 0 6838034
+add_contestant_to_team 5291829 9312989
+remove_contestant_from_team 5291829 9312989
+remove_contestant_from_team 4464168 618135
+add_team 2941122 3856428 0
+get_team_strength -3672123
+add_contestant_to_team 7947273 1584938
+get_team_strength -286077
+get_team_strength 7025706
+get_team_strength 3135612
+add_contestant 8910142 5523977 0 4427721
+add_contestant_to_team 5291829 8910142
+remove_contestant_from_team 5291829 8910142
+add_contestant 2546084 3856428 0 9568523
+add_contestant_to_team 6689173 9312989
+get_team_strength 9517393
+get_team_strength 2439410
+get_team_strength 6054893
+get_team_strength 887416
+add_contestant 7491313 5523977 0 8216287
+get_team_strength -3035178
+add_contestant_to_team 6689173 5273175
+get_team_strength 9660811
+add_contestant_to_team 6689173 8910142
+add_contestant_to_team 7947273 8203479
+get_team_strength 7343890
+get_team_strength 6115398
+add_contestant_to_team 5291829 8910142
+get_team_strength -1135143
+get_team_strength 6689173
+get_team_strength 2721475
+add_contestant_to_team 9660811 910622
+get_team_strength -3761534
+get_team_strength 5088580
+get_team_strength 8067473
+add_contestant_to_team 5960954 2200739
+add_contestant_to_team 7947273 3790320
+get_team_strength 7947273
+get_team_strength 7025706
+get_team_strength 2941122
+get_team_strength 7947273
+add_contestant_to_team 6689173 8887016
+add_team 4665695 4475247 0
+add_contestant_to_team 5960954 8514382
+get_team_strength 9032704
+add_contestant 975499 3856428 0 4504670
+get_team_strength -3104435
+add_contestant_to_team 4665695 4404528
+get_team_strength 1989482
+add_contestant 949609 3856428 0 2728142
+get_team_strength 642494
+get_team_strength 6689173
+add_team 6355032 4475247 0
+add_contestant_to_team 6115398 910622
+add_team 7369961 3856428 0
+get_team_strength -9259444
+add_contestant 1001361 3856428 0 5247990
+get_team_strength 2405279
+get_team_strength 7886065
+remove_contestant_from_team 7025706 8952359
+get_team_strength 5264831
+get_team_strength 4857207
+add_contestant 1290445 3856428 0 8066133
+get_team_strength -358387
+get_team_strength 6355032
+get_team_strength -2637065
+add_contestant_to_team 5960954 8167057
+get_team_strength 8033991
+get_team_strength -8839271
+get_team_strength 5852966
+add_contestant_to_team 6115398 3790320
+get_team_strength 7886065
+get_team_strength 4720085
+get_team_strength 8309272
+remove_contestant_from_team 7025706 618135
+add_team 2733194 4475247 0
+add_contestant_to_team 6115398 1001361
+get_team_strength 5291829
+add_contestant_to_team 6355032 8952359
+get_team_strength 8465635
+get_team_strength -5554366
+add_contestant_to_team 6689173 7491313
+get_team_strength 6689173
+add_contestant_to_team 5291829 8887016
+add_contestant 7627924 5523977 0 7426935
+get_team_strength 7369961
+get_team_strength 7369961
+get_team_strength -1740385
+get_team_strength -7639200
+get_team_strength 4439320
+get_team_strength 3013744
+add_contestant 1799172 4475247 0 7724574
+get_team_strength 9660811
+add_contestant_to_team 6355032 8514382
+add_team 1928331 5523977 0
+add_contestant_to_team 6689173 2928193
+get_team_strength 2941122
+get_team_strength 7025706
+get_team_strength 4464168
+add_contestant 527782 4475247 0 3821611
+add_contestant_to_team 2941122 8203479
+get_team_strength -3421493
+add_contestant_to_team 2941122 2374769
+add_team 7083360 5523977 0
+add_contestant_to_team 4464168 1629868
+get_team_strength -5790838
+get_team_strength -1248935
+add_contestant 4809952 5523977 0 1403761
+remove_contestant_from_team 6355032 8514382
+remove_contestant_from_team 6689173 8887016
+add_contestant 4018117 4475247 0 5330776
+get_team_strength 2486753
+add_team 3288909 3856428 0
+add_contestant 8985844 4475247 0 3707310
+get_team_strength 7886065
+get_team_strength -9836486
+get_team_strength -8118792
+get_team_strength -2450176
+get_team_strength 7025706
+add_contestant_to_team 6115398 5309335
+add_team 8246160 3856428 0
+add_team 1617482 3856428 0
+add_team 1910379 5523977 0
+get_team_strength -7725529
+add_contestant 8015718 5523977 0 2888162
+remove_contestant_from_team 6355032 8952359
+add_contestant 618555 5523977 0 1009829
+add_contestant_to_team 1928331 618555
+remove_contestant_from_team 1928331 618555
+get_team_strength 7947273
+get_team_strength -3880723
+add_team 7466652 4475247 0
+get_team_strength 1910379
+get_team_strength 6355032
+add_contestant_to_team 7886065 8472360
+remove_contestant_from_team 9660811 910622
+add_contestant 8924710 4475247 0 6186689
+get_team_strength 9399018
+add_team 7906369 5523977 0
+add_contestant 4235837 4475247 0 9602597
+get_team_strength 1928331
+add_team 1991335 5523977 0
+get_team_strength 5291829
+add_team 1777074 4475247 0
+get_team_strength 6115398
+get_team_strength -2577071
+get_team_strength 1928331
+add_contestant_to_team 7083360 4809952
+get_team_strength -7444512
+get_team_strength 5962832
+get_team_strength 984731
+get_team_strength 5291829
+add_team 4825585 3856428 0
+get_team_strength -2196261
+get_team_strength 8510801
+add_contestant 7635742 4475247 0 6714663
+add_contestant_to_team 6355032 7635742
+remove_contestant_from_team 6355032 7635742
+get_team_strength -9263445
+get_team_strength 4665695
+get_team_strength -1463520
+get_team_strength 5960954
+add_contestant_to_team 5291829 7627924
+get_team_strength 4665695
+get_team_strength -5603877
+add_team 722839 3856428 0
+get_team_strength 5291829
+get_team_strength -4626335
+add_team 9311406 5523977 0
+add_contestant 637380 4475247 0 267102
+add_contestant_to_team 1777074 637380
+remove_contestant_from_team 1777074 637380
+add_contestant_to_team 7025706 637380
+add_contestant_to_team 2941122 910622
+add_contestant 7804703 3856428 0 4303777
+get_team_strength 8246160
+get_team_strength -872504
+add_team 7604103 5523977 0
+get_team_strength 2190185
+get_team_strength 1777074
+get_team_strength -2529880
+get_team_strength 7286471
+add_contestant 775889 3856428 0 142710
+add_contestant_to_team 5042683 775889
+remove_contestant_from_team 5042683 775889
+get_team_strength -8157842
+get_team_strength 7025706
+add_team 7631704 4475247 0
+get_team_strength 1617482
+add_contestant 3605333 3856428 0 367597
+add_contestant 5296323 5523977 0 1568565
+add_contestant_to_team 4665695 4235837
+get_team_strength 1777074
+get_team_strength -1356476
+get_team_strength 2102717
+add_contestant_to_team 9311406 8015718
+add_contestant 3657252 5523977 0 2494859
+add_contestant_to_team 1991335 3657252
+remove_contestant_from_team 1991335 3657252
+add_team 2586163 4475247 0
+get_team_strength 5960954
+get_team_strength -418933
+add_contestant_to_team 7466652 4018117
+get_team_strength 7604103
+add_contestant 5744372 3856428 0 7572981
+add_contestant_to_team 4464168 8514382
+add_contestant_to_team 5042683 1290445
+remove_contestant_from_team 7083360 4809952
+add_contestant_to_team 7906369 2928193
+add_team 4784814 4475247 0
+get_team_strength -1356817
+get_team_strength -3147829
+remove_contestant_from_team 7906369 2928193
+get_team_strength -6894339
+get_team_strength 7722468
+add_contestant 7350091 3856428 0 9569707
+get_team_strength 7947273
+get_team_strength 9660811
+get_team_strength -8336527
+add_contestant_to_team 4464168 4235837
+get_team_strength 722839
+get_team_strength 1910379
+get_team_strength 7604103
+get_team_strength 1777074
+get_team_strength 1181205
+add_contestant 8605303 5523977 0 3703410
+add_contestant 5426987 5523977 0 3000226
+add_contestant_to_team 1928331 5426987
+remove_contestant_from_team 1928331 5426987
+get_team_strength 8738325
+get_team_strength 7894372
+add_contestant_to_team 722839 5744372
+get_team_strength 1127063
+add_contestant_to_team 1991335 8887016
+get_team_strength 9177369
+get_team_strength -7763207
+add_contestant_to_team 7604103 159650
+add_contestant 4848198 4475247 0 3308700
+add_contestant_to_team 2733194 4848198
+remove_contestant_from_team 2733194 4848198
+get_team_strength 3882098
+add_contestant_to_team 5960954 4404528
+add_team 1704143 3856428 0
+get_team_strength -5526330
+add_contestant_to_team 5291829 7491313
+get_team_strength -2108081
+add_contestant 125693 5523977 0 660324
+add_contestant_to_team 7025706 4404528
+get_team_strength -6205256
+get_team_strength 6939581
+add_team 9838867 3856428 0
+get_team_strength -8990730
+add_contestant_to_team 4784814 7635742
+add_contestant 6914547 5523977 0 210897
+remove_contestant_from_team 1991335 8887016
+get_team_strength 5042683
+get_team_strength 6869904
+add_contestant 6757499 3856428 0 4091250
+add_contestant 5708044 4475247 0 2081596
+remove_contestant_from_team 4784814 7635742
+remove_contestant_from_team 2941122 2374769
+remove_contestant_from_team 5291829 7491313
+get_team_strength 2941122
+remove_contestant_from_team 6689173 9312989
+remove_contestant_from_team 7466652 4018117
+add_team 4207784 5523977 0
+add_team 1374770 5523977 0
+add_team 3730215 5523977 0
+get_team_strength 1910379
+get_team_strength 5591456
+add_contestant 1545109 5523977 0 9415449
+add_contestant_to_team 9311406 7491313
+add_contestant_to_team 3288909 2546084
+get_team_strength 3110780
+add_contestant 4142692 4475247 0 8933050
+get_team_strength 1777074
+get_team_strength 9660811
+get_team_strength 7631704
+get_team_strength 4018132
+get_team_strength 1704143
+add_team 7943402 3856428 0
+get_team_strength -5810072
+get_team_strength 5960954
+get_team_strength 2927874
+get_team_strength -9445964
+get_team_strength 2733194
+get_team_strength 7369961
+add_team 6030493 4475247 0
+get_team_strength 4784814
+add_team 143833 3856428 0
+add_team 4750729 3856428 0
+get_team_strength 8960958
+add_contestant 8487443 4475247 0 6338830
+add_contestant_to_team 7631704 8487443
+remove_contestant_from_team 7631704 8487443
+remove_contestant_from_team 9311406 7491313
+add_contestant 4087899 5523977 0 6441051
+get_team_strength -678935
+get_team_strength 6689173
+add_contestant_to_team 7083360 5426987
+add_contestant_to_team 9311406 125693
+get_team_strength 5291829
+get_team_strength 8027036
+get_team_strength -7616698
+add_team 7438852 5523977 0
+add_contestant_to_team 9311406 5426987
+get_team_strength 1374770
+remove_contestant_from_team 6689173 8910142
+add_contestant_to_team 3730215 4087899
+add_contestant_to_team 7466652 1799172
+add_contestant 6798164 4475247 0 3576621
+get_team_strength 710152
+add_contestant 6675329 4475247 0 8096067
+add_contestant_to_team 6355032 6675329
+remove_contestant_from_team 6355032 6675329
+add_team 5808918 3856428 0
+get_team_strength 6689173
+get_team_strength 1404618
+get_team_strength 5291829
+add_contestant 4339712 3856428 0 8168941
+get_team_strength -4756399
+get_team_strength 1253377
+remove_contestant_from_team 6689173 7491313
+add_contestant 3807312 5523977 0 7647295
+get_team_strength -1243785
+get_team_strength 4665695
+get_team_strength -6707302
+add_contestant 6914364 4475247 0 7479518
+add_contestant_to_team 3730215 8887016
+get_team_strength 1991335
+get_team_strength -1322916
+add_contestant_to_team 1991335 5273175
+add_contestant 4988091 5523977 0 9250772
+get_team_strength -2112287
+get_team_strength 2196889
+add_team 1144812 4475247 0
+get_team_strength 7886065
+get_team_strength 6074098
+get_team_strength -4732100
+get_team_strength 2586163
+get_team_strength -5598322
+get_team_strength 7604103
+add_team 252451 3856428 0
+get_team_strength 9581407
+get_team_strength 6442121
+get_team_strength 5104219
+add_contestant_to_team 4665695 8985844
+get_team_strength 4464168
+add_contestant 142814 3856428 0 1507835
+add_contestant_to_team 9838867 142814
+remove_contestant_from_team 9838867 142814
+get_team_strength 4824139
+get_team_strength 7906369
+get_team_strength 3017138
+get_team_strength -5554992
+get_team_strength -864173
+get_team_strength 7631704
+get_team_strength -7580989
+remove_contestant_from_team 7947273 3790320
+get_team_strength -1695126
+add_team 80934 4475247 0
+remove_contestant_from_team 5291829 8910142
+add_contestant_to_team 6115398 142814
+remove_contestant_from_team 6689173 4679729
+add_contestant_to_team 7886065 910622
+add_team 173529 4475247 0
+get_team_strength -5005032
+add_contestant_to_team 7631704 618135
+remove_contestant_from_team 1991335 5273175
+get_team_strength -995294
+add_contestant_to_team 4825585 7350091
+get_team_strength 7083360
+get_team_strength -6241484
+get_team_strength 1374770
+get_team_strength 5808918
+add_contestant 6543645 5523977 0 2898085
+add_contestant 5082840 4475247 0 1159843
+add_contestant_to_team 4784814 5082840
+remove_contestant_from_team 4784814 5082840
+get_team_strength 2941122
+get_team_strength 173529
+get_team_strength 1910379
+add_contestant_to_team 7631704 6798164
+add_contestant 9832059 4475247 0 2956168
+add_contestant_to_team 4784814 9832059
+remove_contestant_from_team 4784814 9832059
+add_contestant_to_team 3730215 1545109
+get_team_strength 3288909
+get_team_strength 9311406
+add_team 5085166 4475247 0
+add_contestant 6118887 5523977 0 3431358
+get_team_strength -6685607
+add_contestant_to_team 4750729 910622
+add_contestant_to_team 7631704 1629868
+add_contestant_to_team 2586163 618135
+get_team_strength 7943402
+add_contestant 8836957 5523977 0 9253795
+add_contestant_to_team 7438852 8836957
+remove_contestant_from_team 7438852 8836957
+get_team_strength 530829
+get_team_strength 8246160
+add_contestant 6462885 5523977 0 3908983
+add_contestant_to_team 4207784 6462885
+remove_contestant_from_team 4207784 6462885
+add_team 1083147 3856428 0
+get_team_strength 798281
+add_contestant_to_team 1910379 6118887
+get_team_strength 7369961
